@@ -7,7 +7,7 @@
 
 ```bash
 npm install
-npm start
+npx expo start
 ```
 
 ## 🔑 Credenciales de Prueba
@@ -24,9 +24,9 @@ npm start
 
 ## 📱 Funciones
 
-- ✅ Login/Logout
+- ✅ Login
 - ✅ Gestión de usuarios (CRUD)
-- ✅ Ver productos
+- ✅ Ver productos (consumir api)
 - ✅ Navegación por pestañas
 
 ## 🌐 API
